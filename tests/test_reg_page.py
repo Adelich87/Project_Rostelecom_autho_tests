@@ -1,4 +1,4 @@
-# python -m pytest -v --tb=line tests/test_reg_page.py
+
 
 import pytest
 from pages.reg_page import RegPage

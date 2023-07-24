@@ -1,4 +1,4 @@
-# python -m pytest -v --tb=line tests/test_change_pass_page.py
+
 
 import pytest
 from pages.change_pass_page import ChangePassPage
